@@ -10,6 +10,4 @@ export default defineConfig({
   integrations: [tailwind(), icon(), compress()],
   output: "server",
   adapter: vercel(),
-  site: 'https://yarethleal.github.io',
-  base: 'my-cv',
 });
