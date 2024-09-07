@@ -1,14 +1,15 @@
 ---
-title: Senior Detective
-date: 1990 - Present
-url: http://ropibbe.nf/savadru
-location: Los Angeles, California
-org: Los Angeles Police Department (LAPD)
-tags: ["Law Enforcement", "Police Work", "Tactical Operations", "Case Management"]
+title: Full Stack Developer Intern
+date: Aug 2023 - Dec 2023
+url: https://www.linkedin.com/company/nearlinx/
+location: Costa Rica
+org:  Nearlinx
+tags: ["Software Developer", "Front end", "Back end", "Web Development"]
 ---
 
-- Lead investigations into organized crime, drug trafficking, and high-profile criminal activities.
-- Conducted extensive surveillance operations utilizing advanced equipment and techniques to gather critical intelligence.
-- Collaborated with federal agencies such as the FBI and DEA on joint task forces to dismantle criminal syndicates.
-- Played a pivotal role in numerous undercover operations, successfully infiltrating criminal organizations and gathering actionable evidence for prosecution.
-- Trained and mentored junior officers in surveillance tactics, undercover operations, and tactical maneuvers.
+- Ideveloped several information management requirements with CRUD functions for an ERP type project; using
+ ASP.NET Core with MVVM architecture, Bootstrap for style management and Microsoft SQL Server for the
+ database.
+- Identified and fixed bugs through manual testing which resulted in visual and performance improvement.
+- Implemented information retrieval and content deployment based on user roles.
+- Improved the database through testing and error reporting.

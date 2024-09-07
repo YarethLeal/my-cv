@@ -1,15 +1,15 @@
 ---
-title: Bachelor of Science in Criminal Justice
-location: University of California, Los Angeles (UCLA)
+title: Bachelor in Business Informatics 
+location: University of Costa Rica
 url: http://foeberoz.gm/kuj
-institute: University of California
-date: 1970-1975
+institute: University of Costa Rica
+date: 2018-2024
 tags:
   [
-    "Criminal Justice",
-    "Law Enforcement",
-    "Legal Studies",
-    "Public Safety",
-    "Court System",
+    "Informatics",
+    "Business Informatics",
+    "Programming",
+    "Databases",
+    "Software Development",
   ]
 ---

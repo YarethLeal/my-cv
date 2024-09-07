@@ -1,10 +1,13 @@
 ---
 title: about
-name: "Cezar Kelso"
-designation: "Senior Detective"
-location: Los Angeles, CA 90001
-pronouns: "he/him/el"
-website: "http://tafutza.hn/kos"
+name: "Yareth Leal"
+designation: "Software Developer"
+location: Costa Rica
+# website: "http://tafutza.hn/kos"
 ---
 
-Highly skilled and experienced law enforcement professional with over two decades of service in various specialized units. Adept at conducting complex investigations, coordinating tactical operations, and providing leadership in high-pressure situations. Known for exceptional problem-solving abilities, strategic thinking, and dedication to upholding the law. Seeking opportunities to leverage expertise in a challenging environment where I can continue to make a meaningful impact.
+Software Developer and Bachelor in Business Informatics from the University of Costa Rica, with a passion for acquiring new knowledge to allow me develop as a professional and accept new challenges.
+
+I have skills and knowledge in areas such as programming, databases, and project and data management. In addition, I have skills in teamwork, communication, problem solving and use of agile methodologies.
+
+These capabilities allow me to tackle new challenges and work on multidisciplinary projects with a mindset focused on continuous learning, constantly improving the quality of my work.
