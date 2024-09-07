@@ -9,5 +9,7 @@ import vercel from "@astrojs/vercel/serverless";
 export default defineConfig({
   integrations: [tailwind(), icon(), compress()],
   output: "server",
-  adapter: vercel()
+  adapter: vercel(),
+  site: 'https://yarethleal.github.io',
+  base: 'my-cv',
 });
