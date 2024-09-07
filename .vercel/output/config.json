@@ -1,0 +1,75 @@
+{
+	"version": 3,
+	"routes": [
+		{
+			"src": "^/_astro/(.*)$",
+			"headers": {
+				"cache-control": "public, max-age=31536000, immutable"
+			},
+			"continue": true
+		},
+		{
+			"handle": "filesystem"
+		},
+		{
+			"src": "^\\/_image$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/about\\/about\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/blogs\\/home-mmouzo\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/certificates\\/githubFoundations\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/contact\\/email\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/contact\\/github\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/contact\\/linkedin\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/projects\\/admin-hotelReservations\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/projects\\/averiesReport\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/projects\\/client-hotelReservations\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/projects\\/digitalHealthRecord\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/projects\\/oakTheChatbot\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/studies\\/studie1\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/works\\/work1\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/$",
+			"dest": "_render"
+		}
+	]
+}
